@@ -81,17 +81,6 @@ My priorities are straightforward: reliable software, clean architecture, strong
 
 </div>
 
-| Layer | Technologies |
-|---|---|
-| **Languages & Web** | Python 3, asyncio, SQL, JavaScript, TypeScript, HTML5, and CSS3 |
-| **Backend & APIs** | REST APIs, aiohttp, HTTPX, Requests, SQLAlchemy, authentication, permissions, integrations, and background jobs |
-| **Telegram** | Telegram Bot API, aiogram, Telethon, python-telegram-bot, bots, Mini Apps, private control systems, and channel automation |
-| **Data & Persistence** | SQLite, aiosqlite, pandas, OpenPyXL, structured JSON state, caching, data modeling, migrations, and reporting |
-| **Automation & Scheduling** | APScheduler, scheduled services, event monitoring, notifications, scraping pipelines, and workflow automation |
-| **Media & Content** | Pillow, FFmpeg/FFprobe, Beautiful Soup, feedparser, image rendering, media validation, conversion, and compression |
-| **Delivery & Operations** | Docker Compose, Linux, systemd, Git, GitHub, PyInstaller, environment-based configuration, health checks, and service supervision |
-| **Quality & Reliability** | Automated and manual testing, integration testing, debugging, code review, structured logging, secure configuration, retry strategies, and performance tuning |
-
 > I choose tools based on the product, deployment environment, and long-term maintenance needs—not trends alone.
 
 ## End-to-End Development
