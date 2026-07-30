@@ -2,7 +2,7 @@
 
 # Nic — Full-Stack Developer
 
-### Building reliable web products, Telegram solutions, automation systems, and blockchain tools.
+### Building reliable web applications, APIs, automation platforms, and production systems.
 
 I turn ideas and operational challenges into secure, scalable, production-ready software.
 
@@ -16,7 +16,7 @@ I turn ideas and operational challenges into secure, scalable, production-ready 
 
 I am a full-stack developer focused on building practical digital products that solve real problems. I work across the entire development lifecycle—from product planning and interface development to backend architecture, database design, integrations, testing, deployment, and ongoing improvement.
 
-I have particular experience in the Telegram ecosystem, including bots, Mini Apps, moderation tools, payment flows, monitoring systems, and automated content platforms. I also build complete web applications, internal dashboards, blockchain tools, APIs, and custom automation solutions.
+My work includes complete web applications, APIs, internal dashboards, database-driven systems, automation platforms, and third-party integrations. I also have deep experience in the Telegram ecosystem, including bots, Mini Apps, moderation tools, payment flows, monitoring systems, and automated content platforms.
 
 My priorities are straightforward: reliable software, clean architecture, strong security, good performance, transparent communication, and thorough testing. Whether I am launching a new product, improving an existing platform, or building an internal tool, I aim to deliver software that is maintainable and ready for real-world use.
 
@@ -47,7 +47,7 @@ My priorities are straightforward: reliable software, clean architecture, strong
 
 <div align="center">
 
-**Languages & Web**
+**Core Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -55,29 +55,29 @@ My priorities are straightforward: reliable software, clean architecture, strong
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
 **Backend & Data**
 
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?style=for-the-badge&logo=aiohttp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Telegram & Automation**
+**Delivery & Integrations**
 
-![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Telethon](https://img.shields.io/badge/Telethon-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
-![APScheduler](https://img.shields.io/badge/APScheduler-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-
-**Media & Operations**
-
-![Pillow](https://img.shields.io/badge/Pillow-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![systemd](https://img.shields.io/badge/systemd-0086CE?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
 </div>
 
@@ -98,20 +98,20 @@ I can take a project from an early idea to a working product, including:
 - Deployment preparation, monitoring, and maintenance
 - Refactoring, feature development, and modernization of existing systems
 
-## Telegram Solutions
+## Platforms & Integrations
 
-Telegram is one of my strongest areas of specialization. I develop solutions such as:
+Alongside complete web products, I build specialized platforms and integrations such as:
 
-- Customer-service and support bots
-- Community management and moderation bots
-- Telegram Mini Apps and embedded web experiences
-- Membership, access, and subscription systems
-- Payment and checkout workflows
-- Automated content publishing and distribution
-- Blockchain, wallet, and transaction alerts
-- Monitoring, reporting, and notification bots
-- Admin dashboards for managing bot operations
-- Custom integrations between Telegram and external platforms
+- REST APIs and integrations with external services
+- Responsive dashboards, administration panels, and internal tools
+- Authentication, permissions, memberships, and subscription systems
+- Payment, checkout, billing, and transaction workflows
+- Telegram bots, Mini Apps, moderation systems, and community tools
+- Automated content publishing and distribution pipelines
+- Blockchain, wallet, market-data, and transaction integrations
+- Scheduled jobs, event monitoring, alerts, and reporting
+- Data synchronization, scraping, and processing workflows
+- Operational tooling for deployment, diagnostics, and maintenance
 
 <div align="center">
 
