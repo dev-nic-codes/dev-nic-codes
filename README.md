@@ -6,7 +6,7 @@
 
 I turn ideas and operational challenges into secure, scalable, production-ready software.
 
-[Current Projects](#current-projects) · [Capabilities](#what-i-build) · [Portfolio](https://telegra.ph/Nics-Developer-Portfolio-07-17) · [Contact Me](https://t.me/gagster)
+[Current Projects](#current-projects) · [Capabilities](#what-i-build) · [Tech Stack](#technology-stack) · [Portfolio](https://telegra.ph/Nics-Developer-Portfolio-07-17) · [Contact Me](https://t.me/gagster)
 
 </div>
 
@@ -42,6 +42,34 @@ My priorities are straightforward: reliable software, clean architecture, strong
 | **Blockchain & Crypto** | Wallet and transaction monitoring, on-chain data tools, token activity tracking, automated alerts, and blockchain API integrations |
 | **Monitoring & Notifications** | Real-time event monitoring, operational alerts, status tracking, reporting, and multi-channel notification systems |
 | **Quality & Reliability** | Automated and manual testing, debugging, code review, error handling, logging, security improvements, and performance tuning |
+
+## Technology Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+| Layer | Technologies |
+|---|---|
+| **Languages & Web** | Python 3, asyncio, SQL, JavaScript, TypeScript, HTML5, and CSS3 |
+| **Backend & APIs** | REST APIs, aiohttp, HTTPX, Requests, SQLAlchemy, authentication, permissions, integrations, and background jobs |
+| **Telegram** | Telegram Bot API, aiogram, Telethon, python-telegram-bot, bots, Mini Apps, private control systems, and channel automation |
+| **Data & Persistence** | SQLite, aiosqlite, pandas, OpenPyXL, structured JSON state, caching, data modeling, migrations, and reporting |
+| **Automation & Scheduling** | APScheduler, scheduled services, event monitoring, notifications, scraping pipelines, and workflow automation |
+| **Media & Content** | Pillow, FFmpeg/FFprobe, Beautiful Soup, feedparser, image rendering, media validation, conversion, and compression |
+| **Delivery & Operations** | Docker Compose, Linux, systemd, Git, GitHub, PyInstaller, environment-based configuration, health checks, and service supervision |
+| **Quality & Reliability** | Automated and manual testing, integration testing, debugging, code review, structured logging, secure configuration, retry strategies, and performance tuning |
+
+> I choose tools based on the product, deployment environment, and long-term maintenance needs—not trends alone.
 
 ## End-to-End Development
 
